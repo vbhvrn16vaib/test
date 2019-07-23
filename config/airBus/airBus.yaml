@@ -1,0 +1,8 @@
+id: 226
+name: aerobus
+enabled: false
+travelModes:
+  - bus
+primaryTravelMode: bus
+superpi:
+  host: pibox-med-legacy.pibox-med-legacy
