@@ -1,6 +1,6 @@
 id: 226
 name: aerobus
-enabled: false
+enabled: Enable
 travelModes:
   - bus
 primaryTravelMode: bus
